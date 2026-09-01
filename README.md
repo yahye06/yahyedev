@@ -1,4 +1,4 @@
-# yahyedev
+# yahye's portfolio
 
 Standalone source for [www.yahyeabdukadir.dev](https://www.yahyeabdukadir.dev/), Yahye Abdukadir's personal portfolio website.
 
